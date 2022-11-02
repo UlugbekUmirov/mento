@@ -1,0 +1,79 @@
+{
+  "navbar": {
+    "about": "Biz haqimizda",
+    "advantages": "Ustun tomonlarimiz",
+    "experts": "Expertlarimiz",
+    "contact": "Biz bilan bog’lanish",
+    "button": "Ta'riflar"
+  },
+  "header": {
+    "hometitleh1": "Mento bilan yuqori natijalarga erishing",
+    "hometitlep": "Orzuingizdagi kasbni egallang, orzuingizdagi oliygohga o’qishga kiring va hayotingizni yaxshi tomonga o’zgartiring",
+    "homebutton": "Kursni boshlash"
+  },
+    "slider": {
+    "slider1h": "Mentorlar bilan ishlash",
+    "slider1p": " Abituriyentlarga doimiy ravishda birgalikda ishlashlariuchumentorbiriktiriladi va bu mentor abituriyentlar savollariga onlaynravishda javob beradi. Shuningdek, mentor platforma tomonidano'quvchilari oylik testda qaysi mavzuda xato qilganligi haqidaogohlantiriladi. Ogohlantiruvdan so'ng mentorlar o'z o'quvchilar bilan 5 ta metod orqali birgalikda ishlaydi.",
+    "slider2h": "Nazorat",
+    "slider2p": "Mento.uz ta’lim platformasi nafaqat abituriyentlar uchun balkim ularning ota-onalari uchun ham juda qulay bo’lib, ota-onalar doimiy ravishda farzandlarini masofaviy nazorat qilib turishlari mumkin. Abituriyent qayd etgan test natijalari ham ota-onaga to’g’ridan-to’g’ri hisobot ko’rinishida yetkaziladi",
+    "slider3h": "Testlar",
+    "slider3p": "Har oy abituriyentlar o’zlashtirgan bilimlarini tekshirib ko’rish maqsadida test qilinadi. Test natijalari chiqqach esa foydalanuvchining qaysi testda xató qilganligi va bu xató qaysi darslikda nechanchi mavzuda keltirib o’tilganligi neyroscience orqali aniqlab beriladi."
+  },
+  "OnlinePlatform": {
+    "h2": "Onlayn ta’lim platformasi",
+    "p": "Mento.uz – ta’limning innovatsion yangiligi bo’lib, u abituriyentlar uchun onlayn ta’lim platformasi hisoblanadi. Bu yerda abituriyentlar majburiy va asosiy fanlar bo’yicha har bir fandan 100 soatga mo’ljallangan video darslar asosida mavzularni o’zlashtiradilar.",
+    "button": "Kursni boshlash"
+  },
+  "Ustunlik": {
+    "slider1h": "Mock testlar",
+    "slider1p": "Abituriyentlarga doimiy ravishda birgalikda ishlashlari uchun mentor biriktiriladi"
+  },
+  "Kurs": {
+    "h2": "Mento kurslar",
+    "cardp": "Abituriyentlarga doimiy ravishda birgalikda ishlashlari uchun mentor biriktiriladi",
+    "card1h": "Fizika",
+    "card2h": "Tarix",
+    "card3h": "Biologiya",
+    "card4h": "Matematika",
+    "card5h": "Geografiya",
+    "card6h": "Dasturlash",
+    "soat": "soat",
+    "kitob": "ta kitob"
+  },
+  "Mobil": {
+    "h2": "Mobil ilova bilan yanada qulay!",
+    "p": "Platformaning asosiy maqsadi qisqa muddat ichida ilmiy nazariyaga asoslangan tarzda abituriyentlarni talabalikka yuqori darajada tayyorlashdir."
+  },
+  "Exports": {
+    "h1partners": "Bizning hamkorlarimiz",
+    "h1thoungts": "O'quvchilarning fikrlari",
+    "h1": "Mento ekspertlari",
+    "h5": "Jakob Kenter",
+    "span1": "Matematika",
+    "span2": "Fizika",
+    "span3": "Kimyo",
+    "span4": "Rus tili",
+    "p": "We are a full cycle company. Therefore, we are ready to carry out any project from start to finish"
+  },
+  "Contact": {
+    "h1": "Tanlashda yordam beramiz",
+    "button": "Yuborish",
+    "name":"Ismi-sharifingiz*",
+    "phone":"Telefon raqamingiz*",
+    "question":"Savolingiz*"
+  },
+  "Pricing": {
+    "pricingtitle": "Bizning ta'riflar",
+    "onlinekurs": "Onlayn kurslar",
+    "withteacher": "Fan bo'yicha ustoz yordamida",
+    "mandatory": "Onlayn kurslar(Majburiy fanlar)",
+    "exam": "10 ta sinov imtihoni:",
+    "exam_price": "Sinov imtihoni",
+    "books": "Kitoblar to'plami",
+    "som": "so'm",
+    "oyiga": "So'm/oyiga",
+    "all": "Jami",
+    "button": "Sotib olish",
+    "placeholder": "Fanlarni tanlang"
+  }
+}
