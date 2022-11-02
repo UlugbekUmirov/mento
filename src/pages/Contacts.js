@@ -41,7 +41,7 @@ export default function Contacts() {
     ///////////////////////////////
       await  axios().get(
         encodeURI(
-          `https://api.telegram.org/bot5702349594:AAHkwZZFWMAgffq76pmtE1VaFuxJnf7nv4w/sendMessage?chat_id=${-1001818127319}&text=📮${description}\n\n<b>👤Ismi:</b> ${name}\n<b>📞Telefon raqami:</b>${number}\n<b> 📧 Faoliyat turi:</b> ${''}\n&parse_mode=html`)
+          `https://api.telegram.org/bot5702349594:AAHkwZZFWMAgffq76pmtE1VaFuxJnf7nv4w/sendMessage?chat_id=${-1001818127319}&text=📮Text:${description}\n<b>👤Ismi:</b> ${name}\n<b>📞Telefon raqami:</b>+${number}\n&parse_mode=html`)
       );
   };
 
